@@ -14,7 +14,6 @@ public class custom_order {
         String fillingType; // Filling ordered
         String toppings; // Toppings ordered
         double tax;
-
         double cost = 15.00; //Cost of cakes and cup cakes
         final double TAX_RATE = .08; //Sales tax rate
         // Introduce shop and prompt user to input first name
