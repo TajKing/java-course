@@ -13,7 +13,6 @@ public class custom_order {
         String frostingType; //Frosting ordered
         String fillingType; // Filling ordered
         String toppings; // Toppings ordered
-        String input; // User input
         double tax;
 
         double cost = 15.00; //Cost of cakes and cup cakes
